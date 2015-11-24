@@ -1,7 +1,7 @@
 # Utilities
 ##Code Snippets
 
-branches:
+branches (updated@ 2015-11-24):
 
 - [Bitmapper](https://github.com/fengyhack/Utilities/tree/Bitmapper)
 - [BitwiseMap](https://github.com/fengyhack/Utilities/tree/BitwiseMap)
