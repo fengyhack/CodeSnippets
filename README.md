@@ -1,4 +1,6 @@
-# Code Snippets
+# miscelaneous
+
+Projects & Code Snippets
 
 (updated@ 2015-11-24):
 
